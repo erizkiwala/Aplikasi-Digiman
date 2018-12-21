@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1087644206669",
+    "firebase_url": "https://digiman-4b982.firebaseio.com",
+    "project_id": "digiman-4b982",
+    "storage_bucket": "digiman-4b982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087644206669:android:0049b523144426b0",
+        "android_client_info": {
+          "package_name": "com.example.asus.digiman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087644206669-ofj3g2kdptrhn3ivps078ebco1vqqcj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.digiman",
+            "certificate_hash": "067765ef1a9bd509779e9fbcccd11958af69cdd0"
+          }
+        },
+        {
+          "client_id": "1087644206669-lr1i5povtc7svnl9mfnk0qa72lffjoem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOOKI5dGn6W-rfxxZ7MRzj_F3q-BiPvpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087644206669-lr1i5povtc7svnl9mfnk0qa72lffjoem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
