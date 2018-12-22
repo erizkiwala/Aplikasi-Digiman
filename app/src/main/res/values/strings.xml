@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Digiman</string>
+    <string name="canon80d">Spesifikasi : \n\n -20.2MP APS-C CMOS Sensor \n -DIGIC 5+ Image Processor \n -3.0" 1.04m-Dot Vari-Angle Touchscreen \n -Full HD 1080p/30 Video and Movie Servo AF \n -Dual Pixel CMOS AF with Live View \n -19-Point All Cross-Type Phase-Detect AF \n -Native ISO 12800, Extended to ISO 25600 \n -7 fps Shooting at Full Resolution \n -Built-In Wi-Fi Connectivity / Not (Confirm Crew) \n -63-Zone Dual Layer Metering Sensor
+</string>
+    <string name="canon1">Spesifikasi : \n\n -20.2MP Full-Frame CMOS Sensor \n -DIGIC 5+ Image Processor \n -3.0 1.04m-Dot Clear View LCD Monitor Full HD 1080p Video \n -Recording at 30 fps 11-Point AF with Center Cross-Type \n -Point Native ISO 25600, Extended to ISO 102400 4.5 fps \n -Shooting at Full Resolution Built-In Wi-Fi and GPS Connectivity or Not (Confirm Crew)iFCL 63-Zone Dual Layer Metering Sensor \n -In-Camera HDR dan Multiple Exposure Mode
+</string>
+    <string name="sony">Spesifikasi : \n\n -12.2MP Full-Frame Exmor CMOS Sensor \n -BIONZ X Image Processor \n -Internal UHD 4K30 and 1080p120 Recording \n -S-Log3 Gamma and Display Assist Function \n -5-Axis SteadyShot INSIDE Stabilization \n -0.5" 2.36m-Dot XGA OLED Tru-Finder EVF \n -3.0" 1,228,800-Dot Tilting LCD Monitor \n -Up to 5 fps Shooting and ISO 409600 \n -Fast Intelligent AF, 169 AF Points \n -Built-In Wi-Fi with NFC
+</string>
+    <string name="zhiyun">Spesifikasi : \n\n -Zhiyun-Tech Crane 2 3-Axis Handheld Gimbal Stabilizer \n -360° Rotation Along All Three Axes \n -For Mirrorless and DSLR Cameras up to 7 lb \n -FF Control for Select Canon DSLRs \n -Pro-Grade Image Stabilization \n -OLED Display \n -Camera Control via Handgrip Buttons \n -6000mAh Battery Runs up to 18 Hours \n -Power Select Sony Cameras via Gimbal \n -Quick Release Camera Plate \n -Gradual Power-Down Protects Camera
+</string>
+    <string name="mic">Spesifikasi : \n\n -Directional Video Condenser Microphone \n
+-Rycote Suspension System \n
+-Mounts to Standard Camera Shoe \n
+-3.5mm Mini Plug \n
+-Studio-Quality Sound \n
+-9V Battery Powered \n
+</string>
+    <string name="facebook_app_id">1699059250195816</string>
+    <string name="fb_login_protocol_scheme">fb1699059250195816</string>
+</resources>
